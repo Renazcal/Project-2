@@ -1,0 +1,28 @@
+h1{
+    text-align: center;
+}
+a[href]{
+    color:orange;
+    text-align: center;
+}
+a[href]:hover{
+    background-color: blueviolet;
+}
+img{
+    
+    border: dashed;
+    padding:auto;
+    width:500px;
+    height:300px;
+    
+    
+}
+ul{
+    font-weight: bold;
+    font-size: medium;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+}
+p{
+    font-weight: bolder;
+}
